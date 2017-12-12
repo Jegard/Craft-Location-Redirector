@@ -1,0 +1,14 @@
+{
+	"name": "Jegard/locationredirector",
+	"description": "Redirect users to any domain based on there location",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Luca Jegard",
+			"homepage": "https://github.com/Jegard"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
